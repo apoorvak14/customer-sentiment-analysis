@@ -1,0 +1,49 @@
+customer_id,feedback_text,sentiment,tenure_months,monthly_spend,support_tickets,nps_score,usage_score,churned
+C001,"The support team answered quickly and the dashboard is simple to use",positive,24,89,1,9,88,0
+C002,"Billing errors keep happening and nobody follows up",negative,5,45,5,2,30,1
+C003,"The product works fine but I still need more reporting options",neutral,13,64,2,6,58,0
+C004,"Excellent onboarding experience and the analytics save us hours",positive,31,120,0,10,94,0
+C005,"The app is slow during peak hours and our team is frustrated",negative,8,72,4,3,35,1
+C006,"It meets our basic needs though the interface could be cleaner",neutral,19,55,2,6,61,0
+C007,"Customer success helped us migrate smoothly and adoption is high",positive,28,110,1,9,91,0
+C008,"We are still waiting for a fix to a critical integration problem",negative,6,98,6,1,22,1
+C009,"The features are useful but pricing feels a little high",neutral,15,83,2,5,64,0
+C010,"The new automation tools are reliable and easy for my team",positive,22,76,1,8,82,0
+C011,"Search results are inconsistent and support has been unresponsive",negative,9,68,5,2,29,1
+C012,"Training materials are okay and most workflows are clear",neutral,17,59,1,6,67,0
+C013,"Fantastic experience, our renewal decision is easy",positive,36,140,0,10,97,0
+C014,"Too many bugs after the latest update and productivity dropped",negative,7,88,5,2,28,1
+C015,"The platform is acceptable but not very differentiated",neutral,11,49,2,5,52,0
+C016,"Implementation was smooth and the reports are accurate",positive,20,95,1,8,84,0
+C017,"I cannot recommend this because outages affected our launch",negative,4,105,7,1,18,1
+C018,"The account manager is helpful but advanced setup takes time",neutral,14,73,3,6,57,0
+C019,"Great value for money and the team loves the workflows",positive,26,69,0,9,89,0
+C020,"The mobile app crashes frequently and our users complain",negative,10,58,6,2,25,1
+C021,"Integrations are decent and support usually responds within a day",neutral,16,81,2,6,62,0
+C022,"We saw immediate improvements in customer response time",positive,33,132,1,9,93,0
+C023,"The setup was confusing and documentation did not solve our issue",negative,5,62,4,3,34,1
+C024,"Some features are powerful but the learning curve is noticeable",neutral,12,77,3,5,55,0
+C025,"The service is dependable and performance has been excellent",positive,29,90,0,9,90,0
+C026,"Repeated downtime makes the subscription hard to justify",negative,7,101,5,2,27,1
+C027,"We use it weekly and the experience is neither great nor poor",neutral,18,52,1,6,60,0
+C028,"Our team adopted it quickly and support was proactive",positive,23,87,1,9,86,0
+C029,"The renewal price increased while unresolved tickets remained open",negative,11,118,6,2,31,1
+C030,"Reporting exports work well but dashboards need more filters",neutral,21,93,2,7,70,0
+C031,"The product has become essential to our customer operations",positive,40,150,0,10,98,0
+C032,"Agents lose work because sessions timeout unexpectedly",negative,6,66,5,2,24,1
+C033,"Most capabilities are useful, but adoption is still moderate",neutral,13,71,2,6,59,0
+C034,"Fast, polished, and backed by a thoughtful support team",positive,27,108,0,9,92,0
+C035,"We are considering cancellation because core workflows are broken",negative,3,80,7,1,15,1
+C036,"It is a reasonable tool for our current team size",neutral,20,57,1,6,65,0
+C037,"The analytics helped us identify unhappy customers sooner",positive,30,116,1,9,87,0
+C038,"Feature requests disappear and responses feel generic",negative,8,74,4,3,33,1
+C039,"The product is stable, though the UI feels dated",neutral,25,69,1,7,72,0
+C040,"Amazing support and measurable lift in retention campaigns",positive,35,128,0,10,95,0
+C041,"The system is unreliable and creates extra manual work",negative,9,84,5,2,26,1
+C042,"Good enough for tracking, but automation setup is limited",neutral,17,63,2,6,63,0
+C043,"Our CSM gave excellent guidance and rollout was successful",positive,32,112,1,9,91,0
+C044,"Slow responses from support damaged confidence in the product",negative,6,91,5,2,23,1
+C045,"The product covers our main use cases with some gaps",neutral,22,75,2,6,66,0
+C046,"Users praise the clean workflow and reliable notifications",positive,27,86,0,8,85,0
+C047,"Data sync failures caused reporting mistakes for leadership",negative,5,99,6,1,21,1
+C048,"It is useful for managers but less valuable for agents",neutral,14,68,3,5,54,0
